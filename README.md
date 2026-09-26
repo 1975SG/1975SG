@@ -18,6 +18,9 @@ whatever you're doing and are eager to understand.
 ---
 
 ### Other projects
+stdio::noobe - A hands-on, guided journey from a 229-byte binary seed to a self-hosting GNU toolchain. Learning Linux, assembly, C, compilers, containers, and systems programming from the ground up.
+
+[stdio-noob](https://github.com/1975SG/stdio-noob)
 
 CEP panels for Illustrator/InDesign (mac/Windows): extract, translate,
 apply, and check text via LLM.
