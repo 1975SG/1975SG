@@ -1,8 +1,6 @@
-### iderm
+### rasq
 
-Terminal-first, project-aware IDE. Not a new IDE, not a better TUI --
-self-explanatory for a complex project, not a GUI timebomb, visualizes
-whatever you're doing and are eager to understand.
+Terminal-first, project-aware IDE. prototype under the name iderm - Integrated Development, Engineering & Research Manager
 
 **[Live demo and landing page &rarr;](https://1975sg.github.io/iderm-packaging/)**
 
